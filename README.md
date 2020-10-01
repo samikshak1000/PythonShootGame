@@ -1,6 +1,6 @@
 # PythonShootGame
 
-A simple shoot game written in Python.
+A simple and best shoot game written in Python.
 
 # Introduce
 
